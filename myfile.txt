@@ -2,3 +2,4 @@
 Local 新增 commit
 新增 feature/Text 分支
 新增 Box 分支
+commit message 測試
